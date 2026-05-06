@@ -1,1 +1,90 @@
-# job2
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title> пепка </title>
+		<link rel="stylesheet" href="joby.css">
+	</head>
+    <body> 
+<div>Secondary heading 1</div>
+<p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elitorire
+	aenean a dapibus magna, ac interdum nisl. Suspendisse egetil
+	fringilla nibh, eu commodo arcu. Donec lacinia tempor velite
+	sed tincidunt. Aliquam porttitor nulla purus, vel vulputater
+	ipsum faucibus sed. Phasellus sodales, lorem vel cursus vehi
+	ante purus lacini dui, interdum fringilla massa eros ut duir.
+</p>
+<p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elitorire
+	aenean a dapibus magna, ac interdum nisl. Suspendisse egetil
+	fringilla nibh, eu commodo arcu. Donec lacinia tempor velite
+	sed tincidunt. Aliquam porttitor nulla purus, vel vulputater
+	ipsum faucibus sed. Phasellus sodales, lorem vel cursus vehi
+	ante purus lacini dui, interdum fringilla massa eros ut duir.
+</p>
+
+<div>Secondary heading 2</div>
+<p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elitorire
+	aenean a dapibus magna, ac interdum nisl. Suspendisse egetil
+	fringilla nibh, eu commodo arcu. Donec lacinia tempor velite
+	sed tincidunt. Aliquam porttitor nulla purus, vel vulputater
+	ipsum faucibus sed. Phasellus sodales, lorem vel cursus vehi
+	ante purus lacini dui, interdum fringilla massa eros ut duir.
+</p>
+<p>
+	Lorem ipsum dolor sit amet, consectetur adipiscing elitorire
+	aenean a dapibus magna, ac interdum nisl. Suspendisse egetil
+	fringilla nibh, eu commodo arcu. Donec lacinia tempor velite
+	sed tincidunt. Aliquam porttitor nulla purus, vel vulputater
+	ipsum faucibus sed. Phasellus sodales, lorem vel cursus vehi
+	ante purus lacini dui, interdum fringilla massa eros ut duir.
+</p>
+
+<div class="hehe"> Secondary heading 3 </div1>
+<table border="1">
+	<tr>
+		<td>cell 1</td>
+		<td>cell 2</td>
+		<td>cell 3</td>
+	</tr>
+	<tr>
+		<td>cell 4</td>
+		<td>cell 5</td>
+		<td>cell 6</td>
+	</tr>
+	<tr>
+		<td>cell 7</td>
+		<td>cell 8</td>
+		<td>cell 9</td>
+	</tr>
+</table>
+</body>
+<div class="mem">Title</div>
+<p>
+	This is a paragraph with text.
+</p>
+
+<table border="1" class="bebe">
+	<tr>
+		<th>Name</th>
+		<th>Surname</th>
+		<th>Salary</th>
+	</tr>
+	<tr>
+		<td>John</td>
+		<td>Smith</td>
+		<td>200$</td>
+	</tr>
+	<tr>
+		<td>Nick</td>
+		<td>Mayers</td>
+		<td>300$</td>
+	</tr>
+	<tr>
+		<td>Alex</td>
+		<td>Jonson</td>
+		<td>400$</td>
+	</tr>
+</table>
