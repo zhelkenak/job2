@@ -1,0 +1,110 @@
+p1 {
+	color: #ff00dd
+}
+h1 {
+	color: #00ff37
+}
+H2 {
+	color: #00aeff
+}
+H3 {
+	color: #ff0000
+}
+th { text-align: left;
+    font-weight: normal;
+}
+td {
+	width: 500px;
+	height: 100px;
+    font-weight: bold;
+}
+H4 {
+	text-align: center;
+}
+p {
+	text-align: justify;
+	width: 300px;
+}
+H6 {
+	text-align: right;
+}
+
+div {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+}
+
+.hehe {
+	text-align: right
+}
+
+td { text-align: center;
+    font-weight: bold;
+}
+
+/* 1. Настройка всех абзацев (p) */
+p {
+    width: 300px;           /* Ширина 300 пикселей */
+    text-align: justify;    /* Выравнивание по обоим краям */
+    margin: 10px 0;         /* Небольшой отступ сверху/снизу для красоты */
+}
+
+/* 2. Настройка заголовков h2 */
+h2 {
+    width: 300px;           /* Ширина 300 пикселей */
+    text-align: center;     /* Текст внутри этих 300px будет по центру */
+    color: #00aeff;         /* Твой голубой цвет */
+    
+    /* Если хочешь, чтобы сам блок в 300px стоял по центру страницы: */
+    /* margin: 0 auto; */ 
+}
+
+/* 3. Если ты используешь <div> вместо h2 как заголовок: */
+div {
+    width: 300px;
+    text-align: center;
+}
+
+/* 4. Твой специальный класс для выравнивания вправо */
+.hehe {
+    width: 300px;
+    text-align: right;
+}
+.mem {font-weight: normal;
+}
+p {
+	font-weight: bold;
+}
+
+.bebe {
+    width: 500px;
+    height: 300px;
+}
+    p {
+	font-style: italic;
+}
+
+.aheb {
+	font-size: 30px;
+}
+.AAAAA {
+	font-size: 40px;
+}
+p {
+	font-family: Arial;
+}
+.yoo {
+	font-size: 20px;
+	line-height: 15px;
+	text-align: justify;
+	width: 400px;
+}
+.bem {
+	font-size: 20px;
+	line-height: 1.5;
+	text-align: justify;
+	width: 400px;
+}
